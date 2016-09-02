@@ -16,6 +16,8 @@ public class PrimeNumber {
         Integer primeVar = Integer.parseInt(val);
         if (primeVar % 2 == 0)
             primeVar = primeVar + 1;
+        else
+            primeVar=primeVar+2;
 
         for (int i=primeVar; isPrime; i=i+2)
         {
