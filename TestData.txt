@@ -36,3 +36,8 @@ Input:- education
 Output:- odicatuen
 
 
+FirstOccurence
+
+Input :- aaaabbbcccdedd
+
+Output:- e

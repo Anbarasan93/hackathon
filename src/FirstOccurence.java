@@ -37,7 +37,7 @@ public class FirstOccurence {
       }
 
       if(result=='0') System.out.println("No Repeating Character");
-        else System.out.println(result + ": Result");
+        else System.out.println(result);
     }
 
     public static void main(String[] args)  {
